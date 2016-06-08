@@ -1,3 +1,4 @@
+# Exercício Curso C
 1.	O triangulo de Floyd, chamado assim em honra a Robert Floyd, é um triangulo retângulo formado por números naturais. Para criar um triangulo de Floyd, se inicia com o 1 na esquerda superior, a sequência é continuada de forma que cada linha contenha um número a mais que a anterior. Escreva um programa que receba um número natural (número de linhas) e em seguida mostre o triangulo de Floyd.
 2.	Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit. A formula de conversão é: F = C∗(9.0/5.0)+32. 0, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
 3.	Leia um número inteiro de 4 dígitos (de 1000 a 9999) e imprima 1 dígito por linha.
